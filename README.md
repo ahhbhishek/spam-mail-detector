@@ -26,7 +26,7 @@ The dataset contains labeled messages categorized as:
 Stored locally in:
 
 ```
-data/mail_data.csv
+content/mail_data.csv
 ```
 
 ---
